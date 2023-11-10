@@ -14,7 +14,7 @@ Realizar el rediseño del robot manipulador móvil el cual podrá realizar tarea
 
 ## Desarrollo
 
-- [ ] Valoración de los archivos de CAD.
+- [X] Valoración de los archivos de CAD.
 - [ ] Generación del prototipo de prueba de la estructura mecánica en MDF.
 - [ ] Implementacioón de un controlador de velocidad.
 - [ ] Diseño e implementación del circuito de control de velocidades de los motores.
