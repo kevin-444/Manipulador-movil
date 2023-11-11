@@ -28,9 +28,9 @@ Realizar el rediseño del robot manipulador móvil el cual podrá realizar tarea
 | Nombre | Observaciones |
 | :----------| :----------- |
 | Marko Jhmail Flores | **responsable** |
-| Nolasco Sotelo Brenda Carolina | **Particupante 2024-1** | 
-| Monroy Ramírez Jorge Manuel | **Particupante 2024-1** | 
-| López Juárez Ignacio Kevin  | **Particupante 2024-1** |
+| Nolasco Sotelo Brenda Carolina | **Participante 2024-1** | 
+| Monroy Ramírez Jorge Manuel | **Participante 2024-1** | 
+| López Juárez Ignacio Kevin  | **Participante 2024-1** |
 
 
 ## Referencias
