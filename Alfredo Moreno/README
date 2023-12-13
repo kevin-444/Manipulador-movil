@@ -1,0 +1,7 @@
+# Rediseño del robot manipulador móvil para navegación autónoma con la tarjeta Nvidia TX2
+
+## Descripción del proyecto
+Este proyecto tiene como objetivo realizar el rediseño del robot manipulador móvil para permitir la navegación autónoma. La tarjeta Nvidia TX2 será utilizada para el control del robot, permitiendo la generación de un modelo virtual del mismo.
+
+## Cableado del banco de pruebas
+Una vez teniendo los elementos que lleva el banco de pruebas (motores de corriente directa, Arduino uno, fuente de poder, protoboard, puente IBT 2) se realizó el cableado de los dichos elementos, quedando de la siguiente manera:
