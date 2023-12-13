@@ -6,6 +6,7 @@ Este proyecto tiene como objetivo realizar el rediseño del robot manipulador m�
 ## Cableado del banco de pruebas
 
 Una vez teniendo los elementos que lleva el banco de pruebas (motores de corriente directa, Arduino uno, fuente de poder, protoboard, puente IBT 2) se realizó el cableado de los dichos elementos, quedando de la siguiente manera:
+
 <img src="Alfredo Moreno/conexion banco pruebas.jpg" width="500"/>
 
 Luego, se conectó la fuente de poder y uno de los motores al puente IBT 2.
