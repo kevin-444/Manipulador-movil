@@ -44,7 +44,7 @@ Se utilizo el potenciómetro para controlar la velocidad y el sentido de giro de
 
 <img src="/Kevin López/Banco de pruebas.jpeg" alt="Descripción de la imagen" width="500"/>
 
-Se acomodaron los componentes de tal manera que se tenga espacio para poder cambiar la conexión del motor a probar
+Se acomodaron los componentes de tal manera que se tenga espacio para poder cambiar la conexión del motor a probar <br>
 Se imprimirán en 3D, bases para fijar la fuente, el driver y la protoboard con el Arduino <br>
 
 Primero se probaron los motores con el código que viene en el video de “Guia de control de motores”
