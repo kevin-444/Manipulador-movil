@@ -7,7 +7,7 @@ Lo primero que se realizó, fue la toma de medidas de la tarjeta Nvidia TX2 <br>
 •Altura sin disipador 16 mm <br>
 •Gomas de la base 6 mm <br>
 
-<img src="/Kevin%20Lopez/Tarjeta.jpeg" alt="Descripción de la imagen" width="500"/>
+<img src="/Kevin López/Banco de pruebas.jpeg" alt="Descripción de la imagen" width="500"/>
 
 
 Para realizar el banco de pruebas fue requerido <br> <br>
