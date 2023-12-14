@@ -25,7 +25,7 @@ Para realizar el banco de pruebas fue requerido <br> <br>
 | PWM    | LOW   | Forward   |
 | LOW    | PWM   | Reverse   |
 
-<img src="/Kevin%20Lopez/Datos_IBT2.jpg" alt="Descripción de la imagen" width="500"/>
+<img src="Kevin López/Datos_IBT2.jpg" alt="Descripción de la imagen" width="500"/>
 
 Se realizaron las conexiones pertinentes entre el driver y el Arduino
 
