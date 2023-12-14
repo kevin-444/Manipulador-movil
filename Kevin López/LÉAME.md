@@ -1,6 +1,6 @@
 # Manipulador Móvil 
 
-Lo primero que se realizó, fue la toma de medidas de la tarjeta Nvidia TX2 <br>
+Lo primero que se realizó, fue la toma de medidas de la tarjeta Nvidia TX2 <br> <br>
 •Base negra cuadrada 177 mm  <br>
 •Tornillos dorados 3 mm <br>
 •Altura con disipador 60 mm <br>
@@ -9,7 +9,7 @@ Lo primero que se realizó, fue la toma de medidas de la tarjeta Nvidia TX2 <br>
 
 <img src="/Kevin%20Lopez/Tarjeta.jpeg" alt="Descripción de la imagen" width="500"/>
 
-Para realizar el banco de pruebas fue requerido <br>
+Para realizar el banco de pruebas fue requerido <br> <br>
 •Motores DC <br> 
 •Arduino uno <br>
 •Fuente 5V <br>
