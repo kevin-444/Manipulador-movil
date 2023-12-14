@@ -1,7 +1,8 @@
-#Manipulador Móvil 
+# Manipulador Móvil 
 
 Lo primero que se realizó, fue la toma de medidas de la tarjeta Nvidia TX2
-•Base negra cuadrada 177 mm
+•Base negra cuadrada 177 mm  
+
 •Tornillos dorados 3 mm
 •Altura con disipador 60 mm
 •Altura sin disipador 16 mm
@@ -18,7 +19,7 @@ Para realizar el banco de pruebas fue requerido
 •Potenciómetro
 •Base MDF
 
-##Driver IBT2
+## Driver IBT2
 | RPWM   | LPWM  | Direction |
 |--------|-------|-----------|
 | PWM    | LOW   | Forward   |
